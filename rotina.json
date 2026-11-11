@@ -1,0 +1,132 @@
+{
+ "versao": 1,
+ "atualizadoEm": "2026-11-11",
+ "inicio": "2026-11-09",
+ "feriados": [
+  "2026-11-20",
+  "2026-12-25",
+  "2027-01-01"
+ ],
+ "tarefasPorData": {
+  "2026-11-09": [
+   "Integração RH e documentos",
+   "Pedir todos os acessos (e-mail, CRM, notebook, celular, VPN, portal de propostas)",
+   "Reunião com o gestor: como será medido aos 30/60/90 dias, meta anual, formato do relatório semanal e dia fixo do 1:1"
+  ],
+  "2026-11-10": [
+   "Treinamentos obrigatórios",
+   "Receber a lista oficial da carteira",
+   "Pedir histórico de vendas de 3 anos por conta, base instalada, oportunidades abertas no CRM e contratos de serviço"
+  ],
+  "2026-11-11": [
+   "Estudar o portfólio de Sistemas (produtos, diferenciais, referências e cases em energia)",
+   "Listar materiais de apoio"
+  ],
+  "2026-11-12": [
+   "Mapear parceiros internos (engenharia de aplicação, propostas, serviço, financeiro/crédito, jurídico, logística)",
+   "Agendar 1:1 de 30 min com cada parceiro"
+  ],
+  "2026-11-13": [
+   "Criar a planilha-mestre da carteira (dados da conta, pessoas e papel na decisão, base instalada, investimentos previstos, oportunidades, histórico, processo de compra/homologação, plano da conta)",
+   "Enviar o 1º resumo semanal ao gestor"
+  ],
+  "2026-11-16": [
+   "Classificação A/B/C das contas (potencial × chance de fechar)",
+   "Validar a classificação com o gestor"
+  ],
+  "2026-11-17": [
+   "1:1 com parceiros internos",
+   "Listar o que falta na ficha do CRM de cada conta A"
+  ],
+  "2026-11-18": [
+   "Cruzar os contatos da época da DMA com a carteira",
+   "Primeiras ligações de reapresentação (contas A primeiro)"
+  ],
+  "2026-11-19": [
+   "Agendar visitas às contas A para as semanas 3 a 5",
+   "Enviar o resumo semanal ao gestor (sexta é feriado)"
+  ]
+ },
+ "tarefasPadraoSemana": {
+  "1": [
+   "Planejar a semana",
+   "Bloco de ligações para agendamento",
+   "Enviar ao gestor a agenda da semana (dia, cliente/contato, objetivo, resultado esperado)"
+  ],
+  "2": [
+   "Visitas (registrar cada uma no CRM no mesmo dia)",
+   "Follow-ups"
+  ],
+  "3": [
+   "Visitas (registrar cada uma no CRM no mesmo dia)",
+   "Follow-ups"
+  ],
+  "4": [
+   "Visitas (registrar cada uma no CRM no mesmo dia)",
+   "Follow-ups"
+  ],
+  "5": [
+   "Propostas, CRM em dia e follow-ups",
+   "À tarde: resumo de 5 linhas ao gestor (avanços, novas oportunidades, o que travou, onde precisa de ajuda, foco da próxima semana)",
+   "Montar a agenda da semana N+2"
+  ]
+ },
+ "horarios": [
+  [
+   "08:30",
+   "Partida: ver as 3 prioridades, sem e-mail"
+  ],
+  [
+   "08:45–10:00",
+   "Bloco de ligações e agendamentos (mínimo 5 contatos)"
+  ],
+  [
+   "10:00",
+   "Caixa de entrada"
+  ],
+  [
+   "10:30–16:30",
+   "Visitas, reuniões e propostas"
+  ],
+  [
+   "16:30",
+   "Registrar tudo no CRM com próximo passo e data"
+  ],
+  [
+   "17:15",
+   "Definir as 3 prioridades de amanhã"
+  ]
+ ],
+ "marcos": [
+  {
+   "data": "2026-12-09",
+   "rotulo": "Dia 30",
+   "meta": "carteira 100% mapeada, fichas das contas A completas e metade das contas A visitadas"
+  },
+  {
+   "data": "2027-01-08",
+   "rotulo": "Dia 60",
+   "meta": "todas as contas A visitadas e primeiras propostas"
+  },
+  {
+   "data": "2027-02-09",
+   "rotulo": "Dia 90",
+   "meta": "forecast confiável e plano de conta para cada conta A"
+  }
+ ],
+ "dicas": [
+  "Comece pela tarefa mais desconfortável.",
+  "Travou num cliente? Faça o menor próximo passo possível.",
+  "Ritmo de referência: 15 a 20 contatos e 4 a 6 visitas por semana.",
+  "Concessionárias desaceleram entre o Natal e meados de janeiro: visitas às contas A até 18/12."
+ ],
+ "fases": [
+  {
+   "ate": "2026-11-19",
+   "texto": "Semanas 1 e 2: integração, levantamento da carteira e classificação A/B/C"
+  },
+  {
+   "texto": "Foco em visitas e relacionamento com as contas A"
+  }
+ ]
+}
